@@ -1,5 +1,6 @@
 package com.example.android.thenewsroom;
 
+import android.app.Activity;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.preference.ListPreference;
@@ -18,7 +19,7 @@ import static android.R.attr.x;
  * Created by AMRITA BASU on 14-04-2017.
  */
 
-public class SettingsActivity extends AppCompatActivity {
+public class SettingsActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
