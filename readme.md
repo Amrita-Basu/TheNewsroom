@@ -4,7 +4,7 @@ An Android app that displays news articles from a range of prominent sources usi
 Minimum SDK version : 15(IceCreamSandwich 4.0.3)
 
 On launch, the app shows articles from the default source:
-
+<img src="https://raw.githubusercontent.com/Amrita-Basu/TheNewsroom/master/app/src/main/res/Screenshot1.png?raw=true" width="200"/>
 
 The menu has two options: Preferences and About (to enlist the attributions):
 
