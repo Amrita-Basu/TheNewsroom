@@ -1,5 +1,5 @@
 # The Newsroom
-An Android app that displays news articles from a range of prominent sources using a news API (newsapi.org).
+An Android app that displays news articles from a range of prominent sources using a news API (newsapi.org).The user can choose a source of their liking. If they tap on a particular article, they are navigated to the corresponding website hosting that article, where they can read it in greater depth, should they wish to.
 
 Minimum SDK version : 15(IceCreamSandwich 4.0.3)
 
