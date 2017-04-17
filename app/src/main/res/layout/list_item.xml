@@ -37,6 +37,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:fontFamily="sans-serif-medium"
+        android:paddingBottom="4dp"
         android:gravity="center"
         android:text="5:00 pm, 14th April, 2017"
         android:textSize="10sp" />
@@ -49,7 +50,7 @@
         android:ellipsize="end"
         android:maxLines="3"
         android:paddingBottom="8dp"
-        android:paddingTop="8dp"
+        android:paddingTop="4dp"
         android:text="Long placeholder location that should wrap to more than 3 lines of text"
         android:textSize="15sp"
          />
