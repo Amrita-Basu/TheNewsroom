@@ -28,11 +28,23 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/version"
         android:layout_centerInParent="true"
-        android:linksClickable="true"
-        android:paddingTop="16dp"
+        android:paddingTop="32dp"
         android:text="Powered by newsapi.org"
         android:textSize="20sp"
-        android:textStyle="bold"/>
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/icon_made_by"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/powered_by"
+        android:layout_centerInParent="true"
+
+        android:linksClickable="true"
+        android:paddingTop="4dp"
+        android:text="Icon made by Freepik from www.flaticon.com"
+        android:textSize="18sp"
+        android:textStyle="bold" />
 
 
 </RelativeLayout>
