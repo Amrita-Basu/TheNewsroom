@@ -14,12 +14,13 @@ import java.util.prefs.PreferenceChangeListener;
 
 import static android.R.attr.value;
 import static android.R.attr.x;
+import static android.R.attr.y;
 
 /**
  * Created by AMRITA BASU on 14-04-2017.
  */
 
-public class SettingsActivity extends Activity {
+public class SettingsActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

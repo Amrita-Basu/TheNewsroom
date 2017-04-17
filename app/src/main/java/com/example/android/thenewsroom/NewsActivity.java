@@ -28,7 +28,7 @@ import static android.R.id.empty;
 import static android.content.Context.CONNECTIVITY_SERVICE;
 import static com.example.android.thenewsroom.R.id.emptyView;
 
-public class NewsActivity extends Activity implements LoaderManager.LoaderCallbacks<List<News>> {
+public class NewsActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<List<News>> {
 
     public static final String LOG_TAG = NewsActivity.class.getName();
     private static final String NEWS_API_REQUEST_URL = "https://newsapi.org/v1/articles";
